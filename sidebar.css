@@ -73,3 +73,13 @@ body {
   display: flex;
   justify-content: space-between;
 }
+
+.btn {
+  width: 10rem;
+  height: 2rem;
+  background-color: rgb(89, 194, 255);
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  margin-left: 5rem;
+}
