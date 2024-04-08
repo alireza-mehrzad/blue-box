@@ -82,4 +82,11 @@ body {
   border: none;
   border-radius: 3px;
   margin-left: 5rem;
+  transition: all 0.4s;
+}
+
+.btn:hover {
+  background-color: #0066ff;
+  box-shadow: 2px 2px 3px #636262;
+  text-shadow: 2px 2px 3px #000000;
 }
