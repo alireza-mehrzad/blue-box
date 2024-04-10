@@ -1,0 +1,251 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family:'Times New Roman', Times, serif
+}
+header{
+    position: relative;
+    width: 100%;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(117, 117, 121);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.text{
+    position: absolute;
+    left: 10rem;
+    bottom:1rem;
+    color: blue;
+}
+.search{
+    position: absolute;
+    width: 15rem;
+    height: 2rem;
+    left: 27rem;
+    border-radius: 5rem;
+    outline: none;
+
+
+}
+.w-6{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 40rem;
+}
+
+.img{
+    position: absolute;
+    width: 3.5rem;
+    height: 3.5rem;
+    left: 71rem;
+    border-radius: 40%;
+}
+h2{
+    position: absolute;
+    font-size:1rem;
+    left:75rem;
+}
+.h-6{
+    
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 84rem;
+}
+.w-7{
+      
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 93rem;
+}
+.w-8{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 88.5rem;
+}
+main{
+    position: relative;
+    width: 70rem;
+    height: 41.5rem;
+    background-color: rgb(234, 241, 241);
+    left: 27.1%;
+}
+.img-2{
+    position: absolute;
+    width: 4remrem;
+    height: 4rem;
+    left:2rem;
+    border-radius:10%;
+    top: 2rem;
+}
+.h1{
+    position: absolute;
+    font-size:1rem;
+    top: 3.5rem;
+    left: 7rem;
+    color: #585555;
+
+}
+.box-0{
+    position: relative;
+width: 100%;
+height:30%;
+background-color: rgb(234, 241, 241);
+top: 8rem;
+display: flex;
+flex-direction: row;
+justify-content:space-around;
+
+
+
+}
+.box-1{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(229, 53, 242);
+    border-radius: 1rem;
+
+}
+.disain{
+    width: 100%;
+    height: 100%;
+    border-radius: 1rem;
+}
+.box-x{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(42, 91, 165);
+    border-radius: 1rem;
+}
+.p-1{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 2.6rem;
+    top: 4rem;
+    font-size: 1.2rem; 
+    
+}
+.icon-n{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 2.6rem;
+    top: 6rem; 
+}
+.w-2{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 4.3rem;
+    top: 6.2rem; 
+}
+.box-3{
+    width: 30%;
+    height: 100%;
+background-color: rgb(239, 124, 42);
+border-radius: 1rem;
+}
+.h-7{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 3rem;
+    top: 2rem;
+}
+.h-h{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 50rem;
+    top: 2rem;
+}
+
+.w-h{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 27rem;
+    top: 2rem; 
+}
+.w-w{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 27rem;
+    top: 6rem; 
+}
+.w-1{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 28.7rem;
+    top: 6rem;
+}
+.text-1{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 27.5rem;
+    top: 4rem;
+    font-size: 1.2rem; 
+    display: block;
+}
+.h2-2{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 27.5rem;
+    top: 8rem;
+    font-size: 1rem; 
+    display:block;
+    
+}
+.h2-3{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 3rem;
+    top: 8rem;
+    font-size: 1rem; 
+    display:block;
+}
+.p-p{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 50rem;
+    top: 4rem;
+    font-size: 1.2rem; 
+    display: block;  
+}
+.icon-m{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 49.7rem;
+    top: 6rem; 
+}
+.w-22{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 51.3rem;
+    top: 6.2rem; 
+}
+.h2-4{
+    position: absolute;
+    width: 1.5rem;
+    height: 1.5rem;
+    left: 50rem;
+    top: 8rem;
+    font-size: 1rem; 
+    display:block;
+|}
